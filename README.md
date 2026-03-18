@@ -1,53 +1,39 @@
-# hey, i'm varun 
+# hey, i'm varun
 
-i’m a computer science student working at the intersection of machine learning, systems, and product-focused development.
-i like building things that are practical, and occasionally, fun to use.
-
----
-
-## what i'm into
-
-* machine learning in real-world applications
-* building small systems that scale
-* product thinking 
+machine learning · systems · building products
 
 ---
 
 ## currently
 
-* working on ml + product hybrid projects
-* trying to build something people use daily
-* exploring async systems and real-time interactions
+building things i find interesting
+trying to make something people use daily
 
 ---
 
-## a few things i've built
+## 
 
-* moviematch — real-time movie matching in shared rooms
-* stremtify — spotify → flac pipeline with async scraping
-* nutricare *(ongoing)* — ml-powered health + tracking
-* scenemetric *(ongoing)* — extracting structure from scenes
-
----
-
-## outside of work
-
-movies · music · gym · coffee
+* moviematch
+* stremtify
+* nutricare *(ongoing)*
+* scenemetric *(ongoing)*
 
 ---
 
-## current focus
+## 📍
 
-> build something people actually use daily
-
----
-
-## find me here
-
-* github → https://github.com/VarunPahuja
-* linkedin → https://linkedin.com/in/varunpahuja15
-* leetcode → https://leetcode.com/u/varunpahuja/
-* email → [vpahuja1508@gmail.com](mailto:vpahuja1508@gmail.com)
+<a href="https://github.com/VarunPahuja" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="28"/>
+</a>
+<a href="https://linkedin.com/in/varunpahuja15" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
+</a>
+<a href="https://leetcode.com/u/varunpahuja/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="28"/>
+</a>
+<a href="mailto:vpahuja1508@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" height="28"/>
+</a>
 
 ---
 
