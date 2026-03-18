@@ -1,11 +1,11 @@
-# hey, i'm varun 👋
+# hey, i'm varun 
 
 i’m a computer science student working at the intersection of machine learning, systems, and product-focused development.
 i like building things that are practical, and occasionally, fun to use.
 
 ---
 
-## ⚡ what i'm into
+## what i'm into
 
 * machine learning in real-world applications
 * building small systems that scale
@@ -13,7 +13,7 @@ i like building things that are practical, and occasionally, fun to use.
 
 ---
 
-## 🧠 currently
+## currently
 
 * working on ml + product hybrid projects
 * trying to build something people use daily
@@ -21,28 +21,28 @@ i like building things that are practical, and occasionally, fun to use.
 
 ---
 
-## 🚀 a few things i've built
+## a few things i've built
 
-* 🎬 moviematch — real-time movie matching in shared rooms
-* 🎧 stremtify — spotify → flac pipeline with async scraping
-* 🥗 nutricare *(ongoing)* — ml-powered health + tracking
-* 🧠 scenemetric *(ongoing)* — extracting structure from scenes
+* moviematch — real-time movie matching in shared rooms
+* stremtify — spotify → flac pipeline with async scraping
+* nutricare *(ongoing)* — ml-powered health + tracking
+* scenemetric *(ongoing)* — extracting structure from scenes
 
 ---
 
-## 🎮 outside of work
+## outside of work
 
 movies · music · gym · coffee
 
 ---
 
-## 🎯 current focus
+## current focus
 
 > build something people actually use daily
 
 ---
 
-## 📍 find me here
+## find me here
 
 * github → https://github.com/VarunPahuja
 * linkedin → https://linkedin.com/in/varunpahuja15
