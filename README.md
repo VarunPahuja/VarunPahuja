@@ -32,7 +32,7 @@ trying to make something people use daily
  moviematch ·  stremtify ·  nutricare ·  scenemetric
 </p>
 <p align="center">
-  <img src="https://www.nowcard.store/api/card/vvannavv?t=1" alt="NowCard"/>
+  <img src="https://www.nowcard.store/api/card/vvannavv" alt="NowCard"/>
 </p>
 
 
